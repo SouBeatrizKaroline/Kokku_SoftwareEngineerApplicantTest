@@ -1,0 +1,15 @@
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\bin\Debug\net7.0\Test2.exe
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\bin\Debug\net7.0\Test2.deps.json
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\bin\Debug\net7.0\Test2.runtimeconfig.json
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\bin\Debug\net7.0\Test2.dll
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\bin\Debug\net7.0\Test2.pdb
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\obj\Debug\net7.0\Test2.csproj.AssemblyReference.cache
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\obj\Debug\net7.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\obj\Debug\net7.0\Test2.AssemblyInfoInputs.cache
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\obj\Debug\net7.0\Test2.AssemblyInfo.cs
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\obj\Debug\net7.0\Test2.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\obj\Debug\net7.0\Test2.dll
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\obj\Debug\net7.0\refint\Test2.dll
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\obj\Debug\net7.0\Test2.pdb
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\obj\Debug\net7.0\Test2.genruntimeconfig.cache
+C:\Users\beatr\Desktop\C sharp do meu corasisco\Kokku_SoftwareEngineerApplicantTest\Test\Test2\obj\Debug\net7.0\ref\Test2.dll
